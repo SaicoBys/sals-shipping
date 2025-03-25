@@ -1,17 +1,17 @@
 # 📦 Sal's Shipping
 
-Este proyecto calcula el método de envío más económico basado en el peso del paquete.
+This project calculates the most cost-effective shipping method based on the package's weight.
 
-## 🚀 Características
+## 🚀 Features
 
-- Calcula el costo de envío terrestre estándar.
-- Calcula el costo de envío por dron.
-- Compara los costos y determina la opción más económica.
+- Calculates the standard ground shipping cost.
+- Calculates the drone shipping cost.
+- Compares all shipping options and determines the most economical one.
 
-## 📄 Archivo principal
+## 📄 Main File
 
-- `shipping.py`: Contiene toda la lógica del programa.
+- `shipping.py`: Contains the complete program logic.
 
-## 💡 Cómo usar
+## 💡 How to Use
 
-Ejecuta el script en la terminal y proporciona el peso del paquete cuando se solicite.
+Run the script in your terminal and enter the package weight when prompted.
